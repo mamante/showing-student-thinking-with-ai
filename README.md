@@ -1,22 +1,75 @@
 # Showing Student Thinking with AI — Resource Hub
 
-Static, educator-facing GitHub Pages site for NYSCATE 2026.
+**NYSCATE 2026 - Educational Resources**
 
-## What is included
-- `index.html` — coding-centered classroom diagnostic workflow, illustrative Python example, provisional reasoning bands, cross-curricular transfer, and contact information
-- `assets/` — stylesheet and copy-button JavaScript
-- `downloads/Gemini_Prompt_Library.md` — six adaptable, copy-ready Gemini prompts
+**Live Website:** https://mamante.github.io/showing-student-thinking-with-ai/
 
-**Intentionally excluded:** all printables and teacher handouts not previously used in the classroom, student work or notebooks, classroom case studies, assessment records, and presentation PPTX/PDF files.
+## About This Project
 
-The six prompts are offered as adaptable resources, not as evidence of classroom-tested results. Example response bands are illustrative, not grades or permanent student ability labels.
+*Showing Student Thinking with AI* explores how educators can design assignments and assessments that make student reasoning visible in an age of generative artificial intelligence.
 
-## Publish with GitHub Pages
-1. Create or open the repository `showing-student-thinking` in the GitHub account `mamante`.
-2. Extract the ZIP and upload its **contents** (`index.html`, `assets/`, `downloads/`, and `.nojekyll`) into the repository root. Replace older site files.
-3. If updating an existing repository, delete obsolete PDF files from `downloads/` so previously published printables are no longer served.
-4. Under **Settings → Pages**, configure `main` / `/(root)` if not already enabled.
-5. The expected URL is `https://mamante.github.io/showing-student-thinking/` when published from the matching account and repository.
-6. Open the site on a phone and test prompt copy buttons and the prompt-library link.
+Rather than focusing on AI detection or attempting to make assignments AI-proof, this project emphasizes instructional design strategies that require students to demonstrate understanding, evaluate AI-generated responses, explain their decisions, and defend their thinking.
 
-You do not need to share a GitHub password or access token.
+**The central idea: AI can produce an answer, but an answer alone doesn't demonstrate student understanding.**
+
+## What's Included
+
+This resource hub accompanies my NYSCATE 2026 presentation and includes:
+
+- **Coding-Centered Classroom Workflow:** A diagnostic approach for making student reasoning, testing, and decision-making visible.
+- **Illustrative Python Example:** A programming scenario demonstrating how educators can examine student thinking beyond the final code.
+- **Reasoning Bands:** Provisional, illustrative descriptions of different levels of demonstrated reasoning, not grades or permanent labels of student ability.
+- **Cross-Curricular Connections:** Opportunities to adapt these instructional strategies across mathematics, science, English, social studies, and other disciplines.
+- **Gemini Prompt Library:** Six adaptable, copy-ready prompts to support classroom questioning, analysis, feedback, and reflection.
+
+The examples and prompts are intended as resources educators can adapt to their own classrooms. They should not be interpreted as evidence of classroom-tested outcomes.
+
+## Resource Files
+
+- `index.html` — Main educational resource website
+- `assets/` — Website styling and interactive functionality
+- `downloads/Gemini_Prompt_Library.md` — Six adaptable Gemini prompts
+
+The resource hub intentionally excludes untested printable materials, student work, assessment records, and presentation files.
+
+## Making Student Thinking Visible
+
+When generative AI can produce essays, solve problems, and write functional code, a completed assignment alone may not provide sufficient evidence of student understanding.
+
+The challenge for educators is to design learning experiences that make the reasoning behind student work visible.
+
+This includes opportunities for students to:
+
+- Explain and defend their reasoning
+- Evaluate AI-generated suggestions
+- Identify errors and assumptions
+- Test solutions and justify revisions
+- Support decisions with evidence
+- Demonstrate understanding independently
+
+These approaches can be adapted across content areas without requiring educators to abandon their existing curriculum.
+
+## About the Presenter
+
+**Mike Amante**  
+Technology Teacher  
+New Hartford Central School District  
+New Hartford, New York
+
+Apple Distinguished Educator | Google Certified Innovator & Trainer | Project Lead The Way Master Teacher | SUNY Master Teacher
+
+Mike teaches Technology Education, AP Computer Science Principles, and Emerging Technologies. His work focuses on connecting computer science, engineering, emerging technologies, and artificial intelligence with authentic learning experiences.
+
+## Connect
+
+- **Email:** [mamante@gmail.com](mailto:mamante@gmail.com)
+- **X (Twitter):** [Add X profile URL]
+- **GitHub:** [github.com/mamante](https://github.com/mamante)
+
+## Explore the Resources
+
+**[Visit the Showing Student Thinking with AI Resource Hub](https://mamante.github.io/showing-student-thinking-with-ai/)**
+
+---
+
+*Developed for NYSCATE 2026 to support thoughtful instructional design, authentic assessment, and visible student thinking in AI-supported classrooms.*
